@@ -37,7 +37,7 @@ Make sure to set above as about me, and done your pretty much done, that's it th
 </details>
 
 # important notes
-1. First of all this is just a example of what should you do as I am a bot maker myself, also make sure to do this really fast, as the faster it is the more satisfied out customers will be!
+1. First of all this is just a example of what should you do as I am a bot maker myself, also make sure to do this really fast, as the faster it is the more satisfied our customers will be!
 2. Second of all WE/YOU are not allowed to make test bots or random bots, as the more bots you create the more storage and ram the bot is hosted on takes so please don't make bots for testing
 3. Make sure to invite the bots to the Nexus Development server you joined a while ago, make sure you invite it without any permissions, only choose scope.
 4. Well that's pretty much it I don't think ill need to say anything else as I know the BotMakers should probably have *brain*
