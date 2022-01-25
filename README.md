@@ -37,3 +37,14 @@ Make sure to set above as about me, and done your pretty much done, that's it th
 </details>
 
 # important notes
+1. First of all this is just a example of what should you do as I am a bot maker myself, also make sure to do this really fast, as the faster it is the more satisfied out customers will be!
+2. Second of all WE/YOU are not allowed to make test bots or random bots, as the more bots you create the more storage and ram the bot is hosted on takes so please don't make bots for testing
+3. Make sure to invite the bots to the Nexus Development server you joined a while ago, make sure you invite it without any permissions, only choose scope.
+4. Well that's pretty much it I don't think ill need to say anything else as I know the BotMakers should probably have *brain*
+
+# Credits
+
+Main credits goes to Nexus Devlopement and it's owner NotSaksh for making this good of a Bot creator for us! Make sure to donate to him or buy his bot maker for 40$
+Also credits to all the bot makers and the staff that manage NotSaksh's server and NexusDevlopement
+
+Well that's it, Thanks for reading and Happy BotMaking! Have a good day/night
