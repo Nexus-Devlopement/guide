@@ -49,4 +49,4 @@ Also credits to all the bot makers and the staff that manage NotSaksh's server a
 
 Well that's it, Thanks for reading and Happy BotMaking! Have a good day/night
 
-If you can't understand anything look at this example by saksh https://media.discordapp.net/attachments/933753977831579738/935553742286258246/2022-01-24_20-26-13.mp4
+If you can't understand anything look at this example by [saksh](https://media.discordapp.net/attachments/933753977831579738/935553742286258246/2022-01-24_20-26-13.mp4)
